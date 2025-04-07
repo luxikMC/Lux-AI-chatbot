@@ -1,3 +1,6 @@
+https://discord.com/oauth2/authorize?client_id=1358524000015351921&permissions=274877926400&integration_type=0&scope=applications.commands+bot
+Discord invite link for said bot.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Lux AI Chatbot - Terms of Service
 
 Last Updated: April 7, 2025
