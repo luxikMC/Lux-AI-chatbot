@@ -55,9 +55,9 @@ This Privacy Policy describes how the Lux AI Chatbot (the "Bot") collects, uses,
 1. Information We Collect:
 
 User Prompts and Commands: When you interact with the Bot using commands or prompts (e.g., starting a message with "luxbot"), the Bot receives and processes the text of your input to generate a response.
-Discord User and Server Information (Limited): To function correctly, the Bot may temporarily access limited information about your Discord user account (e.g., User ID, username, mention) and the Discord server you are in (e.g., Server ID, channel ID). This information is primarily used to understand the context of your request and to respond appropriately within the Discord environment.
-Blocked User/Server Information: If administrative commands such as /block-chatbot or /block-report are used, the Bot stores the IDs of blocked users and servers to enforce these restrictions.
-Forced Channel Settings: If the /force-channel command is used, the Bot stores the channel ID for that server to restrict responses to that channel.
+Discord User and Server Information (Limited): To function correctly, the Bot may temporarily access limited information about your Discord user account (e.g., User ID, username, mention) and the Discord server you add the bot to (e.g., Server ID, channel ID). This information is primarily used to understand the context of your request and to respond appropriately within the Discord environment.
+Blocked User/Server Information: If administrative commands such as /block-chatbot-user are used, the Bot stores the IDs of blocked users and servers to enforce these restrictions.
+Forced Channel Settings: If the /force-channel command is used, the Bot stores the channel ID and server ID for that server to restrict responses to that channel.
 Error Reports: When users use the /report-error command, the Bot collects the reported error message, the user's ID and username, and the server ID and name to forward to the Bot administrators for debugging.
 2. How We Use Your Information:
 
