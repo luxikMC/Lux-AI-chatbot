@@ -3,10 +3,15 @@ Discord invite link for said bot.
 
 
 APIs used in this discord bot:
+
 https://excuser-three.vercel.app                -excuse generator
+
 https://github.com/fawazahmed0/exchange-api     -currency convertor
+
 https://danbooru.donmai.us/wiki_pages/help:api  -random anime image generator
+
 https://cataas.com                              -random cat image generator
+
 https://api.chucknorris.io                      -random Chuck Norria jokes generator
 
 
